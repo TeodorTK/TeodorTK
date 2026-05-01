@@ -1,8 +1,7 @@
-<div align="center">
-# Hi, I'm Teodor
+<h1 align="center">Hi, I'm Teodor</h1>
 
-### Software Engineer • Embedded Systems • Industrial IoT • Full-Stack Developer
-</div>
+<h3 align="center">Software Engineer • Embedded Systems • Industrial IoT • Full-Stack Developer</h3>
+
 I am a software engineer focused on bridging the gap between hardware and software. My work ranges from programming microcontrollers for industrial automation to building secure, scalable web platforms and desktop applications.
 
 My goal is simple: **Build reliable systems that connect the physical and digital worlds.**
