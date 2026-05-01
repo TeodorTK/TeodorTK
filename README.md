@@ -24,11 +24,11 @@ An end-to-end platform for digitizing psychology clinics, focusing on patient ma
 *   **Automated Reporting:** Pipeline for generating medical PDFs and multi-step evaluation forms.
 *   **Async Processing:** Used Celery & Redis for non-blocking email notifications and document generation.
 
-### [Industrial IoT Gateway — PLC to LED Matrix](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232)
+### [Industrial IoT Gateway — PLC to LED Matrix]
 **Embedded C++ • ESP32 • FreeRTOS • Modbus RTU • RS232/RS485 • HUB75**
 A high-performance embedded system that acts as a bridge between industrial PLCs and dynamic LED displays.
 *   **Dual-Core Execution:** Dedicated cores for Modbus communication and high-refresh rendering (DMA).
-*   **Protocol Support:** Full implementation for FATEK ASCII and Modbus RTU (8E1) with LRC checksum validation.
+*   **Protocol Support:** Full implementation for [**FATEK communication protocol RS232**](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232) and [**Modbus RTU RS485 (8E1)**](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485) (8E1) with LRC checksum validation.
 *   **Reliability:** Built-in watchdog and "Safe State" logic to handle communication timeouts (E0/E1 error states).
 *   **Dynamic UI:** Adaptive rendering engine for smooth scrolling, timers, and prioritized operational messages.
 
