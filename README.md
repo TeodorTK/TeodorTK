@@ -50,8 +50,8 @@ A cross-platform desktop utility designed to automate the flashing and testing p
 
 ## GitHub Analytics
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodorTK&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodorTK&layout=compact&theme=tokyonight)
 
 ## Contact & Collaboration
 
