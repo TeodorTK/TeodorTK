@@ -24,15 +24,15 @@ An end-to-end platform for digitizing psychology clinics, focusing on patient ma
 *   **Automated Reporting:** Pipeline for generating medical PDFs and multi-step evaluation forms.
 *   **Async Processing:** Used Celery & Redis for non-blocking email notifications and document generation.
 
-### [Industrial IoT Gateway — PLC to LED Matrix]
+### Industrial IoT Gateway — PLC to LED Matrix
 **Embedded C++ • ESP32 • FreeRTOS • Modbus RTU • RS232/RS485 • HUB75**
 A high-performance embedded system that acts as a bridge between industrial PLCs and dynamic LED displays.
 *   **Dual-Core Execution:** Dedicated cores for Modbus communication and high-refresh rendering (DMA).
-*   **Protocol Support:** Full implementation for [**FATEK communication protocol RS232**](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232) and [**Modbus RTU RS485 (8E1)**](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485) (8E1) with LRC checksum validation.
+*   **Protocol Support:** Full implementation for [**FATEK communication protocol RS232**](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232) and [**Modbus RTU RS485**](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485) (8E1) with LRC checksum validation.
 *   **Reliability:** Built-in watchdog and "Safe State" logic to handle communication timeouts (E0/E1 error states).
 *   **Dynamic UI:** Adaptive rendering engine for smooth scrolling, timers, and prioritized operational messages.
 
-### [Firmware Injector Tool (Ongoing)]
+### Firmware Injector Tool (Ongoing)
 **Rust • .NET • Serial Communication**
 A cross-platform desktop utility designed to automate the flashing and testing process for ESP32-based devices.
 *   **Memory Safety:** Leveraging Rust for reliable serial port handling.
