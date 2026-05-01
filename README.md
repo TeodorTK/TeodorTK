@@ -24,7 +24,7 @@ An end-to-end platform for digitizing psychology clinics, focusing on patient ma
 *   **Automated Reporting:** Pipeline for generating medical PDFs and multi-step evaluation forms.
 *   **Async Processing:** Used Celery & Redis for non-blocking email notifications and document generation.
 
-### [Industrial IoT Gateway — PLC to LED Matrix](https://github.com/your-username/plc-gateway)
+### [Industrial IoT Gateway — PLC to LED Matrix](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485)
 **Embedded C++ • ESP32 • FreeRTOS • Modbus RTU • RS232/RS485 • HUB75**
 A high-performance embedded system that acts as a bridge between industrial PLCs and dynamic LED displays.
 *   **Dual-Core Execution:** Dedicated cores for Modbus communication and high-refresh rendering (DMA).
