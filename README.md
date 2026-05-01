@@ -51,6 +51,7 @@ A cross-platform desktop utility designed to automate the flashing and testing p
 ## GitHub Analytics
 
 [![GitHub Stats Card](https://git-pulse-beige.vercel.app/api/stats?username=teodortk&theme=vue_dark&card_width=420&hide=contributed%2Cstars)](https://github.com)
+
 [![Top Languages Card](https://git-pulse-beige.vercel.app/api/top-langs?username=teodortk&theme=vue_dark&layout=compact&langs_count=8)](https://github.com)
 
 ## Contact & Collaboration
