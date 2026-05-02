@@ -36,39 +36,11 @@
 
 <div align="center">
   <img src="https://git-pulse-beige.vercel.app/api/stats?username=teodortk&theme=vue_dark&card_width=410&hide=contributed%2Cstars" alt="GitHub Stats Card" />
-  <img src="https://git-pulse-beige.vercel.app/api/top-langs?username=teodortk&theme=vue_dark&layout=compact&langs_count=8" alt="Top Languages Card" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983&bg_color=1A1E22" alt="Activity Graph" width="410" />
 </div>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=teodortk&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983" alt="Activity Graph" />
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=teodortk&theme=monokai&no-frame=true&margin-w=15&row=1&column=6" alt="teodortk trophies" />
-</a>
-
 
 <div align="center">
-  <a href="https://github.com/TeodorTK/matrix-display-fatek-communication-RS232">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teodortk&repo=matrix-display-fatek-communication-RS232&theme=vue_dark&hide_border=true" alt="Pinned Repo FATEK" />
-  </a>
-  <a href="https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teodortk&repo=matrix-display-fatek-modbusrtu-rs485&theme=vue_dark&hide_border=true" alt="Pinned Repo Modbus" />
-  </a>
+   <img src="https://git-pulse-beige.vercel.app/api/top-langs?username=teodortk&theme=vue_dark&layout=compact&langs_count=8" alt="Top Languages Card" />
 </div>
 
 
-
-
-<div align="center">
-  <!-- Cardurile tale originale -->
-  <img src="https://git-pulse-beige.vercel.app/api/stats?username=teodortk&theme=vue_dark&card_width=410&hide=contributed%2Cstars" alt="GitHub Stats Card" />
-  <img src="https://git-pulse-beige.vercel.app/api/top-langs?username=teodortk&theme=vue_dark&layout=compact&langs_count=8" alt="Top Languages Card" />
-</div>
-<br/>
-<div align="center">
-  <!-- Streak și Grafic de activitate -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teodortk&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983&bg_color=1A1E22" alt="Activity Graph" width="410" />
-</div>
