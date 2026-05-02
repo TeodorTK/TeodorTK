@@ -36,6 +36,9 @@
 
 <div align="center">
   <img src="https://git-pulse-beige.vercel.app/api/stats?username=teodortk&theme=vue_dark&card_width=410&hide=contributed%2Cstars" alt="GitHub Stats Card" />
+</div>
+
+<div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983&bg_color=1A1E22" alt="Activity Graph" width="410" />
 </div>
 
