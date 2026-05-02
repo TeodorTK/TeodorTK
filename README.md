@@ -6,19 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="mailto:teodork.teodork@gmail.com">Email Me</a> • <a href="https://linkedin.com/in/teodorpadureanu">LinkedIn</a>
+  <a href="mailto:teodork.teodork@gmail.com">teodork.teodork@gmail.com</a> • <a href="https://linkedin.com/in/teodorpadureanu">LinkedIn</a>
 </p>
 
 ---
 
 ### 🚀 Featured Engineering Work
 
-* **[SanoPsi — Clinical Management Platform](link-ul-tau-aici)** 
+* **[SanoPsi — Clinical Management Platform](https://github.com/TeodorTK/sanopsi-demo)** 
   *Python, Django, PostgreSQL, Redis, Docker*
   End-to-end platform for digitizing psychology clinics. Built with secure 2FA data pipelines, automated medical PDF reporting, and async processing for zero-blocking workflows.
 
-* **[Industrial IoT Gateway — PLC to LED](link-ul-tau-aici)**
-  *C++, ESP32, FreeRTOS, Modbus RTU, RS232/RS485*
+* **[Industrial IoT Gateway — PLC to LED]**
+  *C++, ESP32, FreeRTOS, Modbus RTU, [RS232](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232)/[RS485](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485)*
   High-performance bridge between FATEK PLCs and dynamic LED displays. Architected dual-core workflows for robust Modbus communication and zero-latency UI rendering (DMA).
 
 * **Firmware Injector Tool (Ongoing)**
