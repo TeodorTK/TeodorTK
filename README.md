@@ -40,28 +40,35 @@
 </div>
 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=teodortk&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983" alt="Activity Graph" />
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=teodortk&theme=monokai&no-frame=true&margin-w=15&row=1&column=6" alt="teodortk trophies" />
+</a>
 
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <a href="https://github.com/TeodorTK/matrix-display-fatek-communication-RS232">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teodortk&repo=matrix-display-fatek-communication-RS232&theme=vue_dark&hide_border=true" alt="Pinned Repo FATEK" />
+  </a>
+  <a href="https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=teodortk&repo=matrix-display-fatek-modbusrtu-rs485&theme=vue_dark&hide_border=true" alt="Pinned Repo Modbus" />
+  </a>
+</div>
 
 
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+<div align="center">
+  <!-- Cardurile tale originale -->
+  <img src="https://git-pulse-beige.vercel.app/api/stats?username=teodortk&theme=vue_dark&card_width=410&hide=contributed%2Cstars" alt="GitHub Stats Card" />
+  <img src="https://git-pulse-beige.vercel.app/api/top-langs?username=teodortk&theme=vue_dark&layout=compact&langs_count=8" alt="Top Languages Card" />
+</div>
+<br/>
+<div align="center">
+  <!-- Streak și Grafic de activitate -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teodortk&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teodortk&theme=vue-dark&hide_border=true&point=42b983&line=42b983&bg_color=1A1E22" alt="Activity Graph" width="410" />
+</div>
