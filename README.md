@@ -17,7 +17,7 @@
   *Python, Django, PostgreSQL, Redis, Docker*
   End-to-end platform for digitizing psychology clinics. Built with secure 2FA data pipelines, automated medical PDF reporting, and async processing for zero-blocking workflows.
 
-* **[Industrial IoT Gateway — PLC to LED]**
+* **Industrial IoT Gateway — PLC to LED**
   *C++, ESP32, FreeRTOS, Modbus RTU, [RS232](https://github.com/TeodorTK/matrix-display-fatek-communication-RS232)/[RS485](https://github.com/TeodorTK/matrix-display-fatek-modbusrtu-rs485)*
   High-performance bridge between FATEK PLCs and dynamic LED displays. Architected dual-core workflows for robust Modbus communication and zero-latency UI rendering (DMA).
 
